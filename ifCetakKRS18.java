@@ -15,6 +15,6 @@ public class ifCetakKRS18{
             System.out.print("Pembayaran UKT terverifikasi?");
             System.out.print("Silakan cetak KRS dan minta tanda tangan DPA");
 
-        }
     }
+}
 }
